@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <style>
+        div {
+            border: 1px solid lightgray;
+            border-bottom: none;
+        }
+
+        .container {
+            margin: 0 auto;
+            width: 80%;
+            height: 950px;
+        }
+
+        #bigRow {
+            width: 100%;
+        }
+
+        #header {
+            height: 100px;
+        }
+
+            #header input {
+                position: relative;
+                height: 50px;
+                width: 340px;
+                border: 1px solid lightgray;
+                float: right;
+                top: 20px;
+                /*right: 20px;*/
+            }
+
+            
+
+        #tblBook {
+            position: relative;
+            top: 60px;
+            width: 100%;
+            height: auto;
+        }
+
+        tr {
+            border-bottom: 1px solid lightgray;
+        }
+
+        td {
+            min-width: 200px;
+        }
+    </style>
+
+
+
+
+
+    <script src="Properties/jquery-3.1.0.js"></script>
+
+    <!--<link href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>-->
+
+
+
+
+    <script src="JavaScript1GoogleBook.js"></script>
+    <script src="Properties/jquery-3.1.0.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+    <title>jQuery UI Autocomplete - Default functionality</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+
+
+    <script src="jquery-3.1.0.js"></script>
+    <script>
+
+
+
+        $(document).ready(function () {
+            myFun();
+            //$('#btnSearch').click();
+        })
+
+    </script>
+    <script>
+
+
+    </script>
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="row" id="header">
+
+            <p id="pRow" style="font-weight:bolder; font-size:larger"></p>
+
+            <input id="btnSearch" type="button" value="Go" style="width:50px;" />
+            <input id="userSearch" type="text" placeholder="Search books by Titls or ISBN..." value="" />
+           
+
+        </div>
+        <div class="row" id="body" style="height:2000px;">
+            <div class="col-md-8" style="border:1px solid black">
+                <table id="tblBook"></table>
+            </div>
+            <div class="col-md-4" style="border:1px solid black">
+                <table id="tblSubSearch"></table>
+            </div>
+            <img src="" alt="" />                
+        </div>
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\APITutrials\GoogleBookAPI\GoogleBookAPI\bin\GoogleBookAPI.dll.config
+C:\APITutrials\GoogleBookAPI\GoogleBookAPI\bin\GoogleBookAPI.dll
+C:\APITutrials\GoogleBookAPI\GoogleBookAPI\bin\GoogleBookAPI.pdb
+C:\APITutrials\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.dll
+C:\APITutrials\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.pdb
+C:\APITutrials\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.csprojResolveAssemblyReference.cache
