@@ -1,0 +1,45 @@
+#table1 {
+    width: 100%;
+}
+
+.txtBtn {
+    height: 60px;
+    width: 100%;
+    font-size: xx-large;
+    text-align: center;
+    color: GrayText;
+    text-decoration-style: dashed;
+    border: 1px solid lightgray;
+    margin-bottom: 10px;
+    vertical-align: central;
+    font-family: Verdana;
+}
+
+div {
+    border: 1px solid white;
+}
+
+.dives {
+    //border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 10px;
+}
+
+td {
+    border-bottom: 1px solid green;
+    height: 100px;
+    width: auto;
+}
+
+.tds {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.tdss {
+    font-size: small;
+    font-weight: lighter;
+    color: gray;
+}
