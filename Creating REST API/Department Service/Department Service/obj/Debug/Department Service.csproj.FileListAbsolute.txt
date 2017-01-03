@@ -1,0 +1,20 @@
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\obj\Debug\Department Service.csprojResolveAssemblyReference.cache
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\Department Service.dll.config
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\Department Service.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\Department Service.pdb
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\DepartmentDataAccess.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\EntityFramework.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\EntityFramework.SqlServer.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\Newtonsoft.Json.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\System.Net.Http.Formatting.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\System.Web.Http.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\System.Web.Http.WebHost.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\DepartmentDataAccess.pdb
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\EntityFramework.xml
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\EntityFramework.SqlServer.xml
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\Newtonsoft.Json.xml
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\System.Net.Http.Formatting.xml
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\System.Web.Http.xml
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\bin\System.Web.Http.WebHost.xml
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\obj\Debug\Department Service.dll
+C:\API_Practice\Create API Using ADO\Department Service\Department Service\obj\Debug\Department Service.pdb

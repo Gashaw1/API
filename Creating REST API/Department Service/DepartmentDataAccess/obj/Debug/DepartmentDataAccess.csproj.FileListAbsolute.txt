@@ -1,0 +1,6 @@
+C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\bin\DepartmentDataAccess.dll.config
+C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\bin\DepartmentDataAccess.dll
+C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\bin\DepartmentDataAccess.pdb
+C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.dll
+C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.pdb
+C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.csprojResolveAssemblyReference.cache
