@@ -1,0 +1,10 @@
+C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\RecordDataAccess.dll.config
+C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\RecordDataAccess.dll
+C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\RecordDataAccess.pdb
+C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\EntityFramework.dll
+C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\EntityFramework.xml
+C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\APITutrials\API_Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.csprojResolveAssemblyReference.cache
+C:\APITutrials\API_Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.dll
+C:\APITutrials\API_Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.pdb

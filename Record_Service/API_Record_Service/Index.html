@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <script src="Script/angular.js"></script>
+    <script src="Script/jquery-3.1.0.js"></script>
+    <script src="Script/JavaScript1.js"></script>
+
+    <link href="Style/StyleSheet1.css" rel="stylesheet" />
+</head>
+
+<body ng-app="apps" ng-controller="myController">
+    <div id="container">
+
+        <div id="header">
+
+            <!--Search by country-->
+            <input type="text" value="" placeholder="Search by country.." ng-model="userInput.Country" />
+        </div>
+        <div id="body">
+            <table>
+                <thead>
+                    <tr>
+                        <td>Name</td>
+                        <td>City</td>
+                        <td>Country</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--loop and filter-->
+                    <tr ng-repeat="record in Record">
+                        <td>{{record.ID}}</td>
+                        <td>{{record.Name}}</td>
+                        <td>{{record.City}}</td>
+                        <td>{{record.Country}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
