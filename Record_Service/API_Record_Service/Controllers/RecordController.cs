@@ -58,5 +58,21 @@ namespace API_Record_Service.Controllers
             }
             return ControllerContext.Request.CreateResponse(HttpStatusCode.OK, new { records });
         }
+        //Add new record 
+        public HttpResponseMessage Post([FromBody]Record newRecord)
+        {
+            redord = new Record();
+            using (databaseEntities = new DatabaseAEntities())
+            {
+
+                redord.Name = newRecord.Name;
+                redord.country = newRecord.country;
+                redord.City = newRecord.City;
+                databaseEntities.SaveChanges();
+            }
+            var message = Request.CreateResponse(HttpStatusCode.Created, redord);
+            message.Headers.Location = new Uri(Request.RequestUri + redord.ID.ToString());
+            return message;
+        }
     }
 }
