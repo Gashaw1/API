@@ -68,6 +68,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomeConnection.cs" />
     <Compile Include="DataAccessClass.cs" />
     <Compile Include="Department.cs" />
     <Compile Include="Employee.cs" />

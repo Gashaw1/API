@@ -4,3 +4,9 @@ C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\bin
 C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.dll
 C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.pdb
 C:\API_Practice\Create API Using ADO\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\DepartmentDataAccess\bin\DepartmentDataAccess.dll.config
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\DepartmentDataAccess\bin\DepartmentDataAccess.dll
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\DepartmentDataAccess\bin\DepartmentDataAccess.pdb
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.dll
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\DepartmentDataAccess\obj\Debug\DepartmentDataAccess.pdb

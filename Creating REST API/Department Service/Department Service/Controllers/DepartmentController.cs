@@ -14,7 +14,7 @@ namespace Department_Service.Controllers
         DataAccessClass dataAccessClas;
         List<Department> departments;
 
-        public HttpResponseMessage getDeperatment()
+        public HttpResponseMessage Get()    
         {
             departments = new List<Department>();
 
