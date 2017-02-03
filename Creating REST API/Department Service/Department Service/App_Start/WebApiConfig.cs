@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
+
+
 
 namespace Department_Service
 {
@@ -19,6 +22,16 @@ namespace Department_Service
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+            //to install on console
+            //Install-Package Microsoft.AspNet.WebApi.Cors
+
+            //To enable cross domain
+            EnableCorsAttribute enableCorsAttribute = new EnableCorsAttribute("*", "*", "*");
+            config.EnableCors(enableCorsAttribute);
+
+
+            
+            
         }
     }
 }

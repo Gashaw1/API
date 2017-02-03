@@ -38,3 +38,6 @@ C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\Dep
 C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\Department Service\obj\Debug\Department Service.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\Department Service\obj\Debug\Department Service.dll
 C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\Department Service\obj\Debug\Department Service.pdb
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\Department Service\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\Department Service\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\API_Practice_Repo\Creating REST API\Department Service\Department Service\bin\System.Web.Http.Cors.xml

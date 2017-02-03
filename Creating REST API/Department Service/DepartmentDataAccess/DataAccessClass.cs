@@ -22,7 +22,7 @@ namespace DepartmentDataAccess
         //
         CustomeConnection customcon;
 
-        string conString = ConfigurationManager.ConnectionStrings["DatabaseAConnectionString"].ConnectionString;
+       // string conString = ConfigurationManager.ConnectionStrings["DatabaseAConnectionString"].ConnectionString;
 
         ////return all 
         //public List<Department> GetDepartmentWithEmployee()
@@ -64,7 +64,7 @@ namespace DepartmentDataAccess
         {
             employees = new List<Employee>();
             customcon = new CustomeConnection();
-            con.Open();
+           // con.Open();
             cmd = new SqlCommand("SP_GetEmployeeByDepartment", customcon.MyConnection());
             cmd.CommandType = CommandType.StoredProcedure;
             sqlParam = new SqlParameter("@departmentID", departmentID);

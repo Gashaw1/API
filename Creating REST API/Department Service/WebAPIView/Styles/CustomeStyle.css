@@ -1,0 +1,36 @@
+﻿body {
+    margin: 0 auto;
+    width: 70%;
+}
+
+#container {
+    width: 100%;
+}
+    #container #headers {
+        width: 100%;
+        height: 100px;
+        font-weight:lighter;
+        border-bottom: 1px solid black;
+    }
+    #container #bodys {
+        display: flex;
+        width: 100%;
+        height: 600px;
+    }
+         #bodys #leftMenu {
+            position: relative;
+            float:left;
+            top:30px;
+            width: 200px;
+            height: 700px;
+            border-right: 1px solid lightgray;
+          }
+           #bodys #MainContaint{
+            position: relative;
+            float:left;
+            top:30px;
+            left: 100px;
+            height: auto;
+            width: 1000px;
+            border-top: 1px solid lightgray;
+          }

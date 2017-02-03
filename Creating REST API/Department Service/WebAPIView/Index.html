@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Page layout</title>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/CustomeJavaScript.js"></script>
+    <link href="Styles/CustomeStyle.css" rel="stylesheet" />
+
+</head>
+<body ng-app="myApp">
+    <div id="container">
+        <div id="headers">
+            <h3>SAMPLE APP</h3>
+        </div>
+        <div id="bodys">
+            <div id="leftMenu">
+                <ul>
+                    <li> <a href="#/Home">Home</a></li>
+                    <li> <a href="#/Department">Department</a></li>
+                    <li> <a href="#/Employee">Employee</a></li>
+                </ul>
+            </div>
+            <div id="MainContaint" , ng-view>
+
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
+
