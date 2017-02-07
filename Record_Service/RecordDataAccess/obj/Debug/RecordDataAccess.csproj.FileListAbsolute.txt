@@ -8,3 +8,13 @@ C:\APITutrials\API_Record_Service\RecordDataAccess\bin\Debug\EntityFramework.Sql
 C:\APITutrials\API_Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.csprojResolveAssemblyReference.cache
 C:\APITutrials\API_Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.dll
 C:\APITutrials\API_Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.pdb
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\bin\Debug\RecordDataAccess.dll.config
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\bin\Debug\RecordDataAccess.dll
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\bin\Debug\RecordDataAccess.pdb
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.dll
+C:\Users\User\Desktop\API_Practice_Repo\Record_Service\RecordDataAccess\obj\Debug\RecordDataAccess.pdb

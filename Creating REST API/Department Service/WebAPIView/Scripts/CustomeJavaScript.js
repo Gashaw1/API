@@ -23,7 +23,6 @@ app.config(function ($routeProvider) {
     .then(function (response)
     {
         $scope.Department = response.data.departments;
-
     })
 
 })

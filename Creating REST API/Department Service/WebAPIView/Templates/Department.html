@@ -1,31 +1,51 @@
 ﻿
 
-    <div>
-        <div id="header">
-            <input type="text" value="" placeholder="Search by country.." />
-        </div>
-        <div id="body">
-            <table>
-                <thead>
-                    <tr>
-                        <td>Id</td>
-                        <td>Name</td>
-                        <td>Manager</td>
-                    </tr>
-                </thead>
-                <tbody>
+<div>
+    <div id="header">
+        <input type="text" value="" placeholder="Search by country.." />
+    </div>
+    <div id="body">
+        <table>
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Name</td>
+                    <td>Manager</td>
+                </tr>
+            </thead>
+            <tbody>
 
-                    <tr ng-repeat="Dep in Department">
-                        <td>{{Dep.departmentID}}</td>
-                        <td>{{Dep.depName}}</td>
-                        <td>{{Dep.depManager}}</td>
-                    <tr ng-repeat="Emp in Dep.Employee">
-                        <td>{{Emp.employeeID}}</td>
-                        <td>{{Emp.empFirstName}}</td>
-                    </tr>
-                    
+                <tr ng-repeat="Dep in Department">
+                    <td>{{Dep.departmentID}}</td>
+                    <td>{{Dep.depName}}</td>
+                    <td>{{Dep.depManager}}</td>
+                    <td>
+                        <table id="subTable">
+                            <tr ng-repeat="Emp in Dep.Employees">                               
+                                <td>{{Emp.employeeID}}</td>
+                                <td>{{Emp.empFirstName}}</td>
+                                <td>{{Emp.empLastName}}</td>
+                            </tr>
+                        </table>
+                    </td> 
+                </tr>
+            </tbody>
+        </table>
 
-                </tbody>
-            </table>
+        <div>
+            <ul ng-repeat="Dep in Department" style="list-style-type:none">
+                <li>{{Dep.departmentID}}</li>
+                <li>{{Dep.depName}}</li>
+                <li>{{Dep.depManager}}</li>
+                <li>
+                    <ul ng-repeat="Emp in Dep.Employees" style="list-style-type:none">
+                        <li>{{Emp.employeeID}}</li>
+                        <li>{{Emp.empFirstName}}</li>
+                        <li>{{Emp.empLastName}}</li>
+                        <li>{{Emp.departmentID_fk}}</li>
+                    </ul>
+                </li>
+            </ul>
         </div>
     </div>
+</div>
