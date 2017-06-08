@@ -102,14 +102,14 @@ namespace DepartmentDataAccess
                 department.departmentID = Convert.ToInt32(sqlDataReader["departmentID"]);
                 department.depManager = sqlDataReader["depManager"].ToString();
                 department.depName = sqlDataReader["depName"].ToString();
-                //invocked getEmp fun
+                //call get employee by department method 
                 department.Employees = getEmployeeByDepartment(department.departmentID);
                 departments.Add(department);
 
             };
             return departments;
         }
-        // 
+     
     }
 }
 

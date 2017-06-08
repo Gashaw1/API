@@ -10,6 +10,8 @@
         width: 100%;
         height: 100px;
         font-weight:lighter;
+        background-color:lightgreen;
+        
         border-bottom: 1px solid black;
     }
     #container #bodys {
@@ -23,7 +25,8 @@
             top:30px;
             width: 200px;
             height: 700px;
-            border-right: 1px solid lightgray;
+            /*border-right: 1px solid lightgray;*/
+            border:1px solid lightgreen;
           }
            #bodys #MainContaint{
             position: relative;
@@ -32,5 +35,5 @@
             left: 100px;
             height: auto;
             width: 1000px;
-            border-top: 1px solid lightgray;
+            border-top: 1px solid lightgreen;
           }

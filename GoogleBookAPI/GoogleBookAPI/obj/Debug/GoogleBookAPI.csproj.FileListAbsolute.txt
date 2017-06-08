@@ -4,3 +4,9 @@ C:\APITutrials\GoogleBookAPI\GoogleBookAPI\bin\GoogleBookAPI.pdb
 C:\APITutrials\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.dll
 C:\APITutrials\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.pdb
 C:\APITutrials\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\API_Practice_Repo\GoogleBookAPI\GoogleBookAPI\bin\GoogleBookAPI.dll.config
+C:\Users\User\Desktop\API_Practice_Repo\GoogleBookAPI\GoogleBookAPI\bin\GoogleBookAPI.dll
+C:\Users\User\Desktop\API_Practice_Repo\GoogleBookAPI\GoogleBookAPI\bin\GoogleBookAPI.pdb
+C:\Users\User\Desktop\API_Practice_Repo\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\API_Practice_Repo\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.dll
+C:\Users\User\Desktop\API_Practice_Repo\GoogleBookAPI\GoogleBookAPI\obj\Debug\GoogleBookAPI.pdb

@@ -24,6 +24,7 @@ namespace Department_Service.Controllers
 
             return ControllerContext.Request.CreateResponse(HttpStatusCode.OK, new { departments });
         }
+        
 
     }
 }
