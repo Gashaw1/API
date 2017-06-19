@@ -1,0 +1,9 @@
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\bin\VocDbContext.dll.config
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\bin\VocDbContext.dll
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\bin\VocDbContext.pdb
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\bin\EntityFramework.dll
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\bin\EntityFramework.SqlServer.dll
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\bin\EntityFramework.xml
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\bin\EntityFramework.SqlServer.xml
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\obj\Debug\VocDbContext.dll
+C:\API_REPOSITORY\VocabularyAPI\VocDbContext\obj\Debug\VocDbContext.pdb

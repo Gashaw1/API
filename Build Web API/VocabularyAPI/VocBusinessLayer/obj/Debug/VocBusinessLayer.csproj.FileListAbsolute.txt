@@ -1,0 +1,9 @@
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\bin\Debug\VocBusinessLayer.dll
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\bin\Debug\VocBusinessLayer.pdb
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\bin\Debug\VocDbContext.dll
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\bin\Debug\EntityFramework.dll
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\bin\Debug\VocDbContext.pdb
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\bin\Debug\EntityFramework.xml
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\obj\Debug\VocBusinessLayer.csprojResolveAssemblyReference.cache
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\obj\Debug\VocBusinessLayer.dll
+C:\API_REPOSITORY\VocabularyAPI\VocBusinessLayer\obj\Debug\VocBusinessLayer.pdb
